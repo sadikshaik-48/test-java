@@ -16,7 +16,7 @@ public class Names {
         for (int i = 0; i < n; i++) {
             String names = sc.nextLine();
 
-            if (names.equalsIgnoreCase("mike")) {
+            if (names.equals("mike")) {
                 found = true;
             }
         }
