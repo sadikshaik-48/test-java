@@ -10,7 +10,7 @@ public class ArrayMD {
 //        matrix[0][3]=5;
 //        matrix[1][3]=50;
 //        matrix[2][3]=500;
-        int len=matrix.length *matrix[0].length;
+        int len=matrix.length * matrix[0].length;
         System.out.println(len);
 //        loop
         for (int i = 0; i < matrix.length; i++) {
